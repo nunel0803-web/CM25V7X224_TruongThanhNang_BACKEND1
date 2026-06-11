@@ -1,0 +1,24 @@
+{
+  "name": "cm25v7x224_truongthanhnang_backend1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nunel0803-web/CM25V7X224_TruongThanhNang_BACKEND1#readme",
+  "bugs": {
+    "url": "https://github.com/nunel0803-web/CM25V7X224_TruongThanhNang_BACKEND1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunel0803-web/CM25V7X224_TruongThanhNang_BACKEND1.git"
+  },
+  "license": "ISC",
+  "author": "Truong Thanh Nang",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
